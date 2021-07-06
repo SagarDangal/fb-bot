@@ -1,0 +1,14 @@
+{
+  "name": "facebookbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "karpis.justas@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^5.2.1"
+  }
+}
